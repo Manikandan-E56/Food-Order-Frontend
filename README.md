@@ -24,3 +24,4 @@ This repository contains the frontend code for a food ordering application built
 
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
