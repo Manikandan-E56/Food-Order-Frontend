@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=McLaren&family=Mukta:wght@200;300;400;500;600;700;800&family=Open+Sans:ital,wdth,wght@0,96.3,300..800;1,96.3,300..800&family=Outfit:wght@100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=McLaren&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.app {
+  width: 90%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+@keyframes fadeIn {
+  0%{
+    opacity: 0;
+  }
+
+  100%{
+    opacity: 100%;
+  }
+}
